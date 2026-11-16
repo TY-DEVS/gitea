@@ -47,6 +47,7 @@
     "js-yaml": "5.5.0",
     "katex": "0.19.1",
     "mermaid": "12.3.0",
+    "node-fetch": "^3.3.2",
     "online-3d-viewer": "0.18.0",
     "pdfobject": "2.3.1",
     "postcss": "8.5.32",
